@@ -1,13 +1,13 @@
 # subjects
-1- angular
-2- django, laravel , craft, magento, wp
-3- php, java, python
-4- mysql
-5- git, gulp
-6- tdd practice
-7- tensorflow
-8- sass
-9- bootstrap
+1- angular  
+2- django, laravel , craft, magento, wp  
+3- php, java, python  
+4- mysql  
+5- git, gulp  
+6- tdd practice  
+7- tensorflow  
+8- sass  
+9- bootstrap  
 
 
 
